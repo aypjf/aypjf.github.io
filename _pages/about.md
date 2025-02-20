@@ -11,7 +11,7 @@ I am an Assistant Professor at the Yau Mathematical Sciences Center, Tsinghua Un
 
 From 2023 to 2025, I was a postdoctoral researcher at the Yau Mathematical Sciences Center, Tsinghua University, working with Professor [Yuhong Yang](https://ymsc.tsinghua.edu.cn/info/1031/3506.htm). I earned my Ph.D. in Statistics from the School of Statistics at Renmin University of China in 2023, under the supervision of Professor [Yang Li](http://stat.ruc.edu.cn/jxtd/jsdw/swtjylxbxx/3e1b4fd7497145f78e7fb198e76247b6.htm). During the final year of my doctoral studies, I was a visiting scholar at the University of Minnesota. Prior to that, I obtained my bachelor's degree in Statistics from Renmin University of China. 
 
-A data-driven personal website
+Selected publications
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
