@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Biography"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am an Assistant Professor at the Yau Mathematical Sciences Center, Tsinghua University. My research focuses on statistics and machine learning, with a particular emphasis on the statistical foundations of modern machine learning methods and understanding the intriguing phenomena emerging in data science and artificial intelligence. 
+
+From 2023 to 2025, I was a postdoctoral researcher at the Yau Mathematical Sciences Center, Tsinghua University, working with Professor [Yuhong Yang](https://ymsc.tsinghua.edu.cn/info/1031/3506.htm). I earned my Ph.D. in Statistics from the School of Statistics at Renmin University of China in 2023, under the supervision of Professor [Yang Li](http://stat.ruc.edu.cn/jxtd/jsdw/swtjylxbxx/3e1b4fd7497145f78e7fb198e76247b6.htm). During the final year of my doctoral studies, I was a visiting scholar at the University of Minnesota. Prior to that, I obtained my bachelor's degree in Statistics from Renmin University of China. 
 
 A data-driven personal website
 ======
