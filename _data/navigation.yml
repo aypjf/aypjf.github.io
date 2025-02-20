@@ -20,8 +20,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Kailash"
-    url: /portfolio/
+  #- title: "Kailash"
+  #  url: /portfolio/
     
-  - title: "Guide"
+  - title: "Mount Kailash"
     url: /markdown/
